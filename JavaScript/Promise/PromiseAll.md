@@ -21,7 +21,7 @@ const promise4 = Promise.reject('error');
 
 /**
 
-* 灵雀云前端面试题：实现 Promise.all 函数
+* 实现 Promise.all 函数
 
 */
 
